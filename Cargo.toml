@@ -1,0 +1,11 @@
+[package]
+name = "compend-compiler"
+description = "Compiles Compend standards packages into documentation, metadata, and configuration that can be acted upon by Compend's other tools."
+version = "0.1.0"
+edition = "2018"
+license = "BlueOak-1.0.0"
+readme = "README.md"
+homepage = "https://compend.us"
+repository = "https://github.com/compend/compiler"
+
+[dependencies]
